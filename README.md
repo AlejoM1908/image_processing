@@ -27,3 +27,4 @@ Then, open a web browser and go to http://localhost to use the program.
 
 ## Authors
 - [Daniel Alejandro Melo Nuvan](https://github.com/AlejoM1908)
+- [Juan Manuel De La Torre Sanchez](https://github.com/JM-delatorre)
